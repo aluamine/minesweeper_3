@@ -1,7 +1,7 @@
 #ifndef CELL_H_
 #define CELL_H_
 #include <vector>
-//My update on dev_cell branch
+
 class Cell
 {
 public:
